@@ -13,3 +13,7 @@ This project uses Kaggle dataset as input:
 /kaggle/input/sms-spam-collection-dataset/__results___files/__results___26_0.png
 
 code has to be run in kaggle
+
+Contains:
+1. The *.ipynb file - emailclassificationcwb2024.ipynb
+2. output sample - processed_email.csv file 
